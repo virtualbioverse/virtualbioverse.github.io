@@ -77,7 +77,7 @@ var countHScene = 0;
 
   // Create scenes.
   var scenes = data.scenes.map(function(data) {
-    var urlPrefix = "https://fazanadiproject.github.io/tiles";
+    var urlPrefix = "http://virtualbioverse.github.io/tiles";
     var source = Marzipano.ImageUrlSource.fromString(
       urlPrefix + "/" + data.id + "/{z}/{f}/{y}/{x}.jpg",
       { cubeMapPreviewUrl: urlPrefix + "/" + data.id + "/preview.jpg" });
@@ -295,7 +295,8 @@ var countHScene = 0;
   }
 
   function createInfoHotspotElement(hotspot) {
-    if (countHotspot == 20 || (countHScene == 1 && countHotspot == 6)) {
+    // if (countHotspot == 20 || (countHScene == 1 && countHotspot == 6)) {
+    if (countHotspot == 20) {
       countHotspot = 0;
       countHScene++;
     } else {
