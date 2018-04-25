@@ -151,7 +151,7 @@ var APP_DATA = {
           "yaw": -0.437886421458213,
           "pitch": 1.092398441505523,
           "title": "Info 20",
-          "text": "<center><img class='myImg' src='http://virtualbioverse.github.io/img/sources/20.jpg' class='img-responsive' width='100%' style='margin : 0; padding : 0;'></img></center><button class='btn btn-primary myVid' style='width:100%' value='https://www.youtube.com/embed/45IdcMearfU'>Video Info 2</button>"
+          "text": "<center><img class='myImg' src='http://virtualbioverse.github.io/img/sources/20.jpg' class='img-responsive' width='100%' style='margin : 0; padding : 0;'></img></center><button class='btn btn-primary myVid' style='width:100%' value='https://www.youtube.com/embed/45IdcMearfU'>Video Info 20</button>"
         },
         {
           "yaw": 2.8495099975593376,
@@ -240,7 +240,7 @@ var APP_DATA = {
           "yaw": 2.198529855846049,
           "pitch": 0.11252528708964249,
           "title": "Info 8",
-          "text": "<center><img class='myImg' src='http://virtualbioverse.github.io/img/sources/hutan/8.jpg' class='img-responsive' width='100%' style='margin : 0; padding : 0;'></img></center>"
+          "text": "<center><img class='myImg' src='http://virtualbioverse.github.io/img/sources/hutan/8.jpg' class='img-responsive' width='100%' style='margin : 0; padding : 0;'></img></center><button class='btn btn-primary myVid' style='width:100%' value='https://assets.nationalgeographic.com/modules-video/latest/assets/ngsEmbeddedVideo.html?guid=0000014e-e6cc-deef-a9ee-e6ee06d20001'>Video Info 8</button>"
         },
         {
           "yaw": -2.7758331831104464,
@@ -294,7 +294,7 @@ var APP_DATA = {
           "yaw": -1.4255363681781148,
           "pitch": -0.5721565699369613,
           "title": "Info 17",
-          "text": "<center><img class='myImg' src='http://virtualbioverse.github.io/img/sources/hutan/17.jpg' class='img-responsive' width='100%' style='margin : 0; padding : 0;'></img></center>"
+          "text": "<center><img class='myImg' src='http://virtualbioverse.github.io/img/sources/hutan/17.jpg' class='img-responsive' width='100%' style='margin : 0; padding : 0;'></img></center><button class='btn btn-primary myVid' style='width:100%' value='https://goo.gl/bXLXop'>Video Info 17</button>"
         },
         {
           "yaw": 3.047345721547817,
